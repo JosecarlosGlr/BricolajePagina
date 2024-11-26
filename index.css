@@ -1,15 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=McLaren&family=Monoton&family=Oswald:wght@200..700&family=Pacifico&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Lora:ital,wght@0,400..700;1,400..700&family=McLaren&family=Monoton&family=Oswald:wght@200..700&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Pacifico&family=Praise&display=swap');
 h1{
     font-family: pacifico;
     font-size: 50px;
-    color:#D2691E;
+    color:pink;
     text-align: center;
 }
 h2{
     font-family: caveat;
     font-size: 30px;
-    color: #00008B;
+    color: palevioletred;
+    text-align: center;
 }
 h3{
     font-family: Arial, Helvetica, sans-serif;
@@ -20,14 +20,14 @@ li{
     font-family: Arial, Helvetica, sans-serif;
 }
 a:visited{
-    color: gray;
+    color: black;
 }
 a:hover{
     font-weight: bold;
-    color: red;
+    color: plum;
 }
 a:active{
-    color: green;
+    color: white;
 }
 table, th, td, tr{
     width: 33%;
@@ -37,7 +37,7 @@ table, th, td, tr{
     border: 2px solid brown;
 }
 body{
-    background-image:url(https://bricomayru.com/wp-content/uploads/2015/10/herramientas-bricolaje-fondo.jpg);
+    background-image:url(https://i0.wp.com/colombiapan.com/wp-content/uploads/2022/04/alicante-18-1-scaled.jpg?fit=1024%2C768&ssl=1);
     background-repeat: no-repeat;
     background-size: cover;
 }
